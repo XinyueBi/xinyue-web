@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyue Bi"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : 
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinyue Bi"
-  avatar           : "images/Xinyue-Bi-visa.JPG"
+  avatar           : "images/xinyue.jpg"
   bio              : "MBZUAI"
   location         : "Abu Dhabi, UAE"
   employer         :
